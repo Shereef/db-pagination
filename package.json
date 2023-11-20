@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/Shereef/db-pagination#readme",
   "devDependencies": {
-    "eslint": "^8.48.0",
+    "eslint": "^8.54.0",
     "husky": "^8.0.3",
     "jest": "^29.6.4",
     "lint-staged": "^14.0.1",
